@@ -1,2 +1,3 @@
-# goit-js-hw-01
-my first JS HW
+# goit-js-hw-02
+
+my secondt JS HW
